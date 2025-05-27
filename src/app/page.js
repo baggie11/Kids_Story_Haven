@@ -121,13 +121,7 @@ export default function Home() {
               >
                 <Link href="/stories">Explore Stories</Link>
               </motion.button>
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="px-8 py-3 bg-white text-purple-600 border border-purple-200 rounded-full shadow-lg text-lg font-medium"
-              >
-                How It Works
-              </motion.button>
+              
             </div>
           </motion.div>
           
