@@ -1,6 +1,6 @@
-# 📚 StorySphere – A World of Stories for Kids and Parents
+# 📚 Kids Story Haven – A World of Stories for Kids and Parents
 
-Welcome to **StorySphere**, a vibrant and engaging storytelling platform built with **Next.js** and **Tailwind CSS**! With over **2,000+ short stories** categorized by age group, this platform is designed to:
+Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform built with **Next.js** and **Tailwind CSS**! With over **2,000+ short stories** categorized by age group, this platform is designed to:
 
 ✨ Help **parents** narrate meaningful tales to their children  
 📖 Encourage **kids** to read independently and build strong vocabulary  
