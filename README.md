@@ -27,7 +27,6 @@ Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform bu
 ### 🎨 Beautiful UI
 - Fully responsive and mobile-friendly
 - Styled using **Tailwind CSS** for a clean and fun reading experience
-- Dark mode support 🌙
 
 ---
 
