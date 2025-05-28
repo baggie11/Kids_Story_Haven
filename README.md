@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📚 Kids Story Haven – A World of Stories for Kids and Parents
 
-## Getting Started
+Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform built with **Next.js** and **Tailwind CSS**! With over **2,000+ short stories** categorized by age group, this platform is designed to:
 
-First, run the development server:
+✨ Help **parents** narrate meaningful tales to their children  
+📖 Encourage **kids** to read independently and build strong vocabulary  
+🧠 Enhance learning with built-in **AI-powered support**
+
+---
+
+## 🌟 Features
+
+### 📖 2,000+ Curated Stories
+- Carefully categorized by age groups (3–5, 6–8, 9–12, etc.)
+- Includes fables, adventures, bedtime tales, and more!
+
+### 🤖 AI Assistant (Powered by Gemini)
+- Instantly explains difficult words or sentences
+- Offers vocabulary support and contextual understanding  
+- Kids can **ask questions while reading** and get simple, age-appropriate explanations
+
+### 🔊 Pronunciation Agent (Web Speech API)
+- Click any word to **hear the correct pronunciation**
+- Kids can practice along to improve their speaking skills  
+- Especially useful for early readers and ESL learners
+
+### 🎨 Beautiful UI
+- Fully responsive and mobile-friendly
+- Styled using **Tailwind CSS** for a clean and fun reading experience
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework**: Next.js (React-based)
+- **Styling**: Tailwind CSS
+- **AI Assistant**: Google Gemini integration
+- **Pronunciation**: Web Speech API (Speech Synthesis & Recognition)
+- **Deployment**: Vercel (recommended)
+
+---
+
+## 🧪 Coming Soon
+
+- 🎮 Interactive story-based games  
+- 📈 Reading Progress Tracker  
+- 🧑‍🏫 Parent Dashboard with story suggestions  
+- 🌐 Multi-language support for global accessibility  
+
+---
+
+## 🛠️ Local Setup
 
 ```bash
+# Clone the repo
+git clone https://github.com/your-username/storysphere.git
+
+# Navigate into the project
+cd storysphere
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
