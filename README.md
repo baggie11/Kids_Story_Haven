@@ -49,17 +49,3 @@ Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform bu
 
 ---
 
-## 🛠️ Local Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/storysphere.git
-
-# Navigate into the project
-cd storysphere
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
