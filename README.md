@@ -16,11 +16,10 @@ Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform bu
 
 ### 🤖 AI Assistant (Powered by Gemini)
 - Instantly explains difficult words or sentences
-- Offers vocabulary support and contextual understanding  
-- Kids can **ask questions while reading** and get simple, age-appropriate explanations
+- Offers vocabulary support.
 
 ### 🔊 Pronunciation Agent (Web Speech API)
-- Click any word to **hear the correct pronunciation**
+- Hear the correct pronounciation of words.
 - Kids can practice along to improve their speaking skills  
 - Especially useful for early readers and ESL learners
 
@@ -36,16 +35,8 @@ Welcome to **Kids Story Haven**, a vibrant and engaging storytelling platform bu
 - **Styling**: Tailwind CSS
 - **AI Assistant**: Google Gemini integration
 - **Pronunciation**: Web Speech API (Speech Synthesis & Recognition)
-- **Deployment**: Vercel (recommended)
+- **Deployment**: Vercel
 
 ---
 
-## 🧪 Coming Soon
-
-- 🎮 Interactive story-based games  
-- 📈 Reading Progress Tracker  
-- 🧑‍🏫 Parent Dashboard with story suggestions  
-- 🌐 Multi-language support for global accessibility  
-
----
 
